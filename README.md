@@ -27,30 +27,30 @@
         <tr>
             <td rowspan=1>SAM Optimizer</td>
             <td>
-                <a href="https://github.com/BBaekdabang/EmotionClassification/blob/main/SAM_Optimizer.ipynb">SAM_Optimizer.ipynb</a>
+                <a href="https://github.com/HappyBusDay/EmotionClassification/blob/main/SAM_Optimizer.ipynb">SAM_Optimizer.ipynb</a>
             </td>
             <td> SAM Optimizer </td>
         </tr>
             <td>Training</td>
             <td>
-                <a href="https://github.com/BBaekdabang/EmotionClassification/blob/main/Train.ipynb">Train.ipynb</a>     
+                <a href="https://github.com/HappyBusDay/EmotionClassification/blob/main/Train.ipynb">Train.ipynb</a>     
             <td> Train </td>
         </tr>
         <tr>
             <td>Inference</td>
             <td>
-                <a href="https://github.com/BBaekdabang/EmotionClassification/blob/main/Inference.ipynb">Inference.ipynb</a>     
+                <a href="https://github.com/HappyBusDay/EmotionClassification/blob/main/Inference.ipynb">Inference.ipynb</a>     
             <td> Inference </td>
         </tr>        
         <tr>
             <td rowspan=2>Model Ensemble</td>       
             <td>
-                <a href="https://github.com/BBaekdabang/EmotionClassification/blob/main/HardVoting.ipynb">HardVoting.ipynb</a>
+                <a href="https://github.com/HappyBusDay/EmotionClassification/blob/main/HardVoting.ipynb">HardVoting.ipynb</a>
             <td> Hard Voting</td>
         </tr>
         <tr>
             <td>
-                <a href="https://github.com/BBaekdabang/EmotionClassification/blob/main/SoftVoting.ipynb">SoftVoting.ipynb</a>
+                <a href="https://github.com/HappyBusDay/EmotionClassification/blob/main/SoftVoting.ipynb">SoftVoting.ipynb</a>
             <td>Soft Voting</td>
         </tr>
         
@@ -144,7 +144,7 @@
 
 - ## Add Layer
    
-   > [AddLayer.ipynb 참조](https://github.com/BBaekdabang/EmotionClassification/blob/main/AddLayer.ipynb)
+   > [AddLayer.ipynb 참조](https://github.com/HappyBusDay/EmotionClassification/blob/main/AddLayer.ipynb)
 
      ```c
 
@@ -170,7 +170,7 @@
 
 - ## SAM Optimizer
 
-   > [SAM_Optimizer.ipynb 참조](https://github.com/BBaekdabang/EmotionClassification/blob/main/SAM_Optimizer.ipynb)
+   > [SAM_Optimizer.ipynb 참조](https://github.com/HappyBusDay/EmotionClassification/blob/main/SAM_Optimizer.ipynb)
    
     ```c
 
@@ -208,7 +208,7 @@
     
 - ## Ensemble
     - #### Hard Voting
-        > [HardVoting.ipynb 참조](https://github.com/BBaekdabang/EmotionClassification/blob/main/HardVoting.ipynb)
+        > [HardVoting.ipynb 참조](https://github.com/HappyBusDay/EmotionClassification/blob/main/HardVoting.ipynb)
         
     ```c
 
@@ -231,7 +231,7 @@
     ```
         
     - #### Soft Voting        
-        > [SoftVoting.ipynb 참조](https://github.com/BBaekdabang/EmotionClassification/blob/main/SoftVoting.ipynb)
+        > [SoftVoting.ipynb 참조](https://github.com/HappyBusDay/EmotionClassification/blob/main/SoftVoting.ipynb)
 
     ```c
     def SoftVoting(model1, model2, model3, model4, test_loader, device):
