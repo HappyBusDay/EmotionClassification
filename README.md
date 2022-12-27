@@ -86,7 +86,7 @@
 ---
 
 
-# 라. 주요 소스 코드
+# 다. 주요 소스 코드
 
 - ## Model Load From Hugging Face
    
@@ -270,7 +270,7 @@
 
 ---
 
-# 마. Reference
+# 라. Reference
 
 [1] [SAM: Sharpeness-Aware Minimization](https://arxiv.org/pdf/2010.01412.pdf) : Foret, Pierre, et al. "Sharpness-aware minimization for efficiently improving generalization." arXiv preprint arXiv:2010.01412 (2020).
 
@@ -282,7 +282,7 @@
 
 ---
 
-# 바. Members
+# 마. Members
 Hyoje Jung | flash1253@naver.com<br>
 Yongjae Kim | dydwo322@naver.com<br>
 Hyein Oh | gpdls741@naver.com<br>
