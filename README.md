@@ -1,5 +1,5 @@
 # Emotion Recognition in Conversation     
-# 월간 데이콘 발화자의 감정인식 AI 경진대회
+# 월간 데이콘 발화자의 감정인식 AI 경진대회    
 <img width="1000" img height="210" alt="Dacon" src="https://user-images.githubusercontent.com/113493692/206966548-bb71d381-a828-4a6f-8806-d63be4e37419.png">
 
 #### 데이터셋 다운로드 : [월간 데이콘 발화자의 감정인식 AI 경진대회](https://dacon.io/competitions/official/236027/data#)
